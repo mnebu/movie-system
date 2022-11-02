@@ -1,0 +1,60 @@
+Chocolate
+6.0 32 12
+src\entities\data\images\Chocolate.jpg
+White Chocolate
+5.0 29 9
+src\entities\data\images\White Chocolate.jpg
+Wristwatch
+60.6 13 7
+src\entities\data\images\Wristwatch.jpg
+Sunglasses
+70.3 24 0
+src\entities\data\images\Sunglasses.jpg
+Perfume
+90.0 0 0
+src\entities\data\images\Perfume.jpg
+Chess Board
+100.7 30 4
+src\entities\data\images\Chess Board.jpg
+Belt
+31.4 39 4
+src\entities\data\images\Belt.jpg
+Picture Frame
+15.8 37 0
+src\entities\data\images\Picture Frame.jpg
+Flowers
+35.0 33 0
+src\entities\data\images\Flowers.jpg
+Dominoes
+40.7 20 0
+src\entities\data\images\Dominoes.jpg
+Tie
+58.2 47 0
+src\entities\data\images\Tie.jpg
+Bracelet
+47.5 28 0
+src\entities\data\images\Bracelet.jpg
+Necklace
+63.0 8 0
+src\entities\data\images\Necklace.jpg
+Pen
+32.1 10 0
+src\entities\data\images\Pen.jpg
+Book
+87.6 3 0
+src\entities\data\images\Book.jpg
+Shirt
+40.0 14 0
+src\entities\data\images\Shirt.jpg
+Shoes
+50.7 30 0
+src\entities\data\images\Shoes.jpg
+Cake
+93.4 5 0
+src\entities\data\images\Cake.jpg
+Pants
+45.7 30 0
+src\entities\data\images\Pants.jpg
+Headphones
+30.7 20 0
+src\entities\data\images\Headphones.jpg
